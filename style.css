@@ -56,7 +56,23 @@ cite{
 #img-div{
     margin: auto;
 }
+
 #img-caption{
     text-align: center;
     margin: 15px 0 5px;
+}
+
+@media (min-width:500px) and (max-width:1000px) {
+    main{
+        margin: 2px;
+        padding: 3px;
+        width: 100%;
+    }
+    h1{
+        font-size: 17px;
+    }
+    p{
+        font-size: 12px;
+        margin: 2px;
+    }
 }
