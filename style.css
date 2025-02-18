@@ -64,15 +64,16 @@ cite{
 
 @media (min-width:500px) and (max-width:1000px) {
     main{
-        margin: 2px 1px;
-/*         padding: 3px; */
+        margin: 2px 0;
+        padding: 0;
         width: 100%;
     }
     h1{
         font-size: 17px;
+
     }
     p{
         font-size: 12px;
-        margin: 2px;
+        margin: 0;
     }
 }
