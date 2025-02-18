@@ -64,8 +64,8 @@ cite{
 
 @media (min-width:500px) and (max-width:1000px) {
     main{
-        margin: 2px;
-        padding: 3px;
+        margin: 2px 1px;
+/*         padding: 3px; */
         width: 100%;
     }
     h1{
